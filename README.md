@@ -2,7 +2,8 @@
 
 # CavTronicClock
 
-This clock is based on Mike Make's clock
+This clock is based on 
+[Mick Make's Project-mmClock ](https://github.com/MickMake/Project-mmClock)
 
 
 The mmClock
