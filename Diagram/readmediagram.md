@@ -32,3 +32,7 @@ Found in common.h
 
 ## Links to product specifications
 [DFPlayer Mini](https://www.dfrobot.com/wiki/index.php/DFPlayer_Mini_SKU:DFR0299)
+
+[LED Matrix wiki](https://www.dfrobot.com/wiki/index.php/FireBeetle_Covers-24%C3%978_LED_Matrix)
+
+[github FireBeetle LEDMatrix](https://github.com/Chocho2017/FireBeetleLEDMatrix)
